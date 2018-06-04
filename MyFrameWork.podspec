@@ -91,7 +91,7 @@ Pod::Spec.new do |s|
   #
 
   s.source_files  = "MyFrameWork", "MyFrameWork/**/*.{h,m}"
-  s.exclude_files = "MyFrameWork/Exclude"
+#s.exclude_files = "MyFrameWork/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
 
